@@ -51,7 +51,7 @@ Number of items to skip from the feed
 
 ### `refresh`
 
-How long you want the feed to be cached (default cache length is three hours)
+How long you want the feed to be cached. Refresh is the number of minutes between cache refreshes (default cache length is three hours).
 
 ## Single Variables
 
